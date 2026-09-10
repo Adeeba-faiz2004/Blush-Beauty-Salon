@@ -7,7 +7,7 @@ A responsive static salon website for Blush Beauty by Sajida, Sargodha.
 - `index.html` — page structure and content
 - `style.css` — custom styles and animations
 - `script.js` — mobile menu, smooth scrolling, booking form and image fallbacks
-- `tailwind.config.js` — Tailwind theme configuration used by the CDN
+- `tailwind.config.js` — Tailwind build configuration (the deployed site uses the generated local CSS)
 
 ## Run locally
 
@@ -39,4 +39,4 @@ Replace `YOUR-USERNAME` with your GitHub username.
 
 On GitHub, open **Settings → Pages**, choose **Deploy from a branch**, select the `main` branch and `/ (root)`, then click **Save**.
 
-The site uses online Google Fonts, Tailwind CDN, Unsplash images and YouTube thumbnails, so visitors need an internet connection for all visual assets. The main icons also have local CSS fallbacks, so they remain visible if Font Awesome is unavailable in a preview.
+The site uses online Google Fonts, Unsplash images and YouTube thumbnails for some visual assets. The Tailwind CSS build and icon fallbacks are local, so layout and icons do not depend on a CDN.
