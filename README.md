@@ -10,7 +10,7 @@ A responsive beauty salon website designed to present salon services, bridal off
 
 ## Preview
 
-![Blush Beauty Website Preview](preview.png)
+![Blush Beauty Website Preview](Home_page.png)
 
 ## Introduction
 
