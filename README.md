@@ -95,6 +95,16 @@ Blush-Beauty-Salon/
 ├── tailwind.config.js
 └── .gitignore
 ```
+### More Screenshots
+
+![About](About.png)
+
+![Bridal](Bridal_looks.png)
+
+![Reservation](Booking.png)
+
+![Gallery](Gallery.png)
+![Services](Services.png)
 
 ## How to Run Locally
 
